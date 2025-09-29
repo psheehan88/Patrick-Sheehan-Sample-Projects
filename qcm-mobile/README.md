@@ -29,21 +29,21 @@ The app streamlines inspection and reporting by storing photos chronologically a
 ## Screenshots
 
 ### Photo Capture & Metadata
-<img width="1301" height="710" alt="qcmph3" src="https://github.com/user-attachments/assets/0c9c9d4f-dfc0-4127-bce2-eba2edb484e8" />
+<img width="1301" height="710" alt="qcmph3" src="https://github.com/user-attachments/assets/e95e43aa-bcb0-40cc-8218-44bbb9dce605" />
 
 
 ### Organized Categories & Reports
-<img width="1315" height="635" alt="qcmph2" src="https://github.com/user-attachments/assets/e3137236-ca50-4131-926b-0e9df5b8d281" />
+<img width="1315" height="635" alt="qcmph2" src="https://github.com/user-attachments/assets/c903d8af-298f-43c6-802f-445b7e54a99c" />
 
 
 ### Detailed Inspection Workflow
-<img width="834" height="909" alt="itememasure" src="https://github.com/user-attachments/assets/1c69d389-7ed2-4d43-ad3d-6c9278fba3d6" />
-<img width="750" height="913" alt="aql" src="https://github.com/user-attachments/assets/7d57a2a9-68da-4e67-b8f7-25c2cef8f6e1" />
-
+<img width="834" height="909" alt="itememasure" src="https://github.com/user-attachments/assets/f3366d28-53d0-480b-95da-585b277879fc" />
+<img width="750" height="913" alt="aql" src="https://github.com/user-attachments/assets/8f6cd4f7-1857-4148-910e-d2d29b720e45" />
 
 
 ### Attaching Photos to Reports
-<img width="843" height="920" alt="Reportattach" src="https://github.com/user-attachments/assets/96db8e94-363e-4c20-b664-acb9a7792c52" />
+<img width="843" height="920" alt="Reportattach" src="https://github.com/user-attachments/assets/cdbeb88d-fa14-4977-b1f9-d16032385621" />
+
 
 
 ---
