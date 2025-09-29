@@ -36,7 +36,8 @@ arrow lines with troop-type icons, and JSON save/load of the map.
 - Known good: **isometric mode** is the canonical view; top-down is optional and shouldn’t alter placement logic
 
 ## Screenshots
-<img width="1152" height="648" alt="shot-2025-09-28T222412" src="https://github.com/user-attachments/assets/c141781e-9dfd-4742-a641-09f73640b756" />
+<img width="1152" height="648" alt="shot-2025-09-28T222412" src="https://github.com/user-attachments/assets/57738e97-ad1c-4638-bef9-8264ff717357" />
+
 
 
 ## Save File (JSON) – Example
