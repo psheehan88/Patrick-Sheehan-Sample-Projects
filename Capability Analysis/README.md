@@ -17,11 +17,12 @@ and compliance reporting.
 - Defect counts inside/outside LSL/USL
 - Optional histogram export to PNG (for report attachments)
 
-<img width="692" height="649" alt="cap_login" src="https://github.com/user-attachments/assets/ed2b4484-3b6c-496e-a6e4-8d830a8de667" />
+<img width="692" height="649" alt="cap_login" src="https://github.com/user-attachments/assets/7232fdba-1e70-4e18-864e-cfeda36501fc" />
 
-<img width="1358" height="786" alt="cap_graph" src="https://github.com/user-attachments/assets/f2a32393-6902-45fb-be78-36780ebe8711" />
+<img width="1358" height="786" alt="cap_graph" src="https://github.com/user-attachments/assets/e522c4f2-b47d-481a-9176-9067b4176392" />
 
-<img width="323" height="318" alt="cap_details" src="https://github.com/user-attachments/assets/c397b1b7-bd18-4ef7-b78e-296761177842" />
+<img width="323" height="318" alt="cap_details" src="https://github.com/user-attachments/assets/dd7486fc-3c1c-417d-a9be-f93c4203c4f1" />
+
 
 ## Example
 **Input CSV** (`data/sample.csv`)
