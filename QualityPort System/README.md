@@ -31,18 +31,20 @@ The **QCM Mobile and QualityPort system** is an enterprise platform built to sup
 
 ## Example Screenshots
 - **Defect Trend Distribution**  
-  <img width="814" height="612" alt="defect_graph" src="https://github.com/user-attachments/assets/3624e4a2-9124-411d-ae04-532bf1496001" />
+  <img width="814" height="612" alt="defect_graph" src="https://github.com/user-attachments/assets/3e48d24a-0c87-463c-a231-1568f671bb90" />
+
 
 - **Pareto Analysis of Defects**  
-  <img width="802" height="579" alt="defect_pareto_graph" src="https://github.com/user-attachments/assets/42240580-3d20-4b08-9d4a-7cce942c5cc5" />
+  <img width="802" height="579" alt="defect_pareto_graph" src="https://github.com/user-attachments/assets/98d95ad9-5713-4bc2-8b5e-849aa0ebf498" />
 
 
 - **Defect Summary Table**  
-  <img width="805" height="576" alt="defect_pareto_table" src="https://github.com/user-attachments/assets/0237c81f-351d-4db8-90af-20e9f3d3b780" />
+  <img width="805" height="576" alt="defect_pareto_table" src="https://github.com/user-attachments/assets/bde6b769-54bc-47a0-8094-d97da8a98a30" />
+
 
 
 - **Inspection Dashboard**  
-   <img width="981" height="900" alt="QA_inspection_dash_demo" src="https://github.com/user-attachments/assets/0c52d5a9-5d5d-4628-9200-829e64b341aa" />
+   <img width="1920" height="1040" alt="unnamed" src="https://github.com/user-attachments/assets/0aba86a2-32d4-4c12-bfe7-1c648ef02c95" />
 
 
 
