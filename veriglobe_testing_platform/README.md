@@ -37,15 +37,18 @@ It enables **clients, test labs, and factories** to upload Excel/CSV test result
 ## Screenshots
 
 ### Dashboard – Testing Overview
-<img width="645" height="697" alt="qa_desktop_dash" src="https://github.com/user-attachments/assets/3cf17bf1-9e56-4cb9-9e8f-40590dbd7acd" />
+<img width="645" height="697" alt="qa_desktop_dash" src="https://github.com/user-attachments/assets/7bdb7cce-58a0-448b-9ab4-94f0245c6e3e" />
+
 
 
 ### Defect Analysis
-<img width="770" height="917" alt="qa_desktop_examples" src="https://github.com/user-attachments/assets/2a4f71ac-3f8e-45b8-aa8f-88c8b17dd750" />
+<img width="770" height="917" alt="qa_desktop_examples" src="https://github.com/user-attachments/assets/2bae28be-5082-4aa0-bc96-4599ba917159" />
+
 
 
 ### Compliance Reporting
-<img width="774" height="832" alt="qa_desktop_examples2" src="https://github.com/user-attachments/assets/5bc62a3d-a0d5-4cc6-a7e2-9acbd55aa6a2" />
+<img width="774" height="832" alt="qa_desktop_examples2" src="https://github.com/user-attachments/assets/0e48d364-5e75-4eab-a8a3-93792f05952a" />
+
 
 
 ---
