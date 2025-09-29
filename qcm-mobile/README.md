@@ -57,13 +57,19 @@ The app streamlines inspection and reporting by storing photos chronologically a
   - Contributed to design & implementation of inspection workflows  
   - Integrated photo metadata stamping with reports  
   - Built tutorials, documentation, and QA testing support  
+- **Infrastructure / Hosting:** Integrated with enterprise backend systems; later supported **AWS-hosted services** for syncing with QualityPort and Veriglobe.  
 
 ---
 
 ## Impact
 
 QCM Mobile has been deployed across global QA teams, supporting **thousands of inspections** with reliable field data capture.  
-It has reduced manual reporting errors, ensured traceability of photos, and improved efficiency of compliance reporting.  
+
+- Reduced manual reporting errors by automating photo + metadata stamping.  
+- Improved compliance by ensuring inspectors follow standardized workflows.  
+- Strengthened supply chain visibility for international clients through real-time sync.  
+- Helped shorten inspection-to-reporting turnaround time significantly.  
+
 
 ---
 
@@ -75,3 +81,5 @@ It has reduced manual reporting errors, ensured traceability of photos, and impr
 
 ---
 
+## Business Value
+By extending inspection capabilities directly into the field, QCM Mobile increased the adoption of the QualityPort system, improved client satisfaction, and provided measurable time savings across QA operations.
