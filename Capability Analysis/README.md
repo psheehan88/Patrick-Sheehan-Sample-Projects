@@ -16,6 +16,8 @@ and compliance reporting.
 - Capability indices: **Pp**, **Ppk**
 - Defect counts inside/outside LSL/USL
 - Optional histogram export to PNG (for report attachments)
+- Export-ready outputs for integration into QA client reports  
+- Lightweight enough to embed into broader enterprise QA/QC systems  
 
 <img width="692" height="649" alt="cap_login" src="https://github.com/user-attachments/assets/7232fdba-1e70-4e18-864e-cfeda36501fc" />
 
@@ -23,6 +25,19 @@ and compliance reporting.
 
 <img width="323" height="318" alt="cap_details" src="https://github.com/user-attachments/assets/dd7486fc-3c1c-417d-a9be-f93c4203c4f1" />
 
+## Impact
+CapTrack provided QA teams with immediate visibility into process stability and compliance:  
+
+- Automated SPC analysis that previously required manual Excel/statistical review  
+- Delivered quick visualizations for client-facing QA reports  
+- Helped factories and labs identify process drift before defects escalated  
+- Reduced turnaround time for quality compliance reporting
+  
+## Tech Stack
+- **Language / Framework:** WLanguage (WinDev)  
+- **Database:** HFSQL (optional integration)  
+- **Charting / Export:** Native WinDev charting APIs, PNG export  
+- **Prototyping:** Later tested with Python (pandas, matplotlib) for extended analytics  
 
 ## Example
 **Input CSV** (`data/sample.csv`)
