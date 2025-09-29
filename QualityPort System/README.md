@@ -1,6 +1,6 @@
-# QCM Mobile & QualityPort System
+# QualityPort System
 
-The **QCM Mobile and QualityPort system** is an enterprise platform built to support **global quality control and manufacturing operations**. It enables inspectors, managers, and clients to track defects, analyze trends, and generate actionable insights in real time across multiple factories and product lines.
+The **QualityPort system** is an enterprise platform built to support **global quality control and manufacturing operations**. It enables inspectors, managers, and clients to track defects, analyze trends, and generate actionable insights in real time across multiple factories and product lines.
 
 ---
 
@@ -15,9 +15,18 @@ The **QCM Mobile and QualityPort system** is an enterprise platform built to sup
 
 - **Mobile Extension (QCM Mobile)**  
   - Built for on-site inspectors to log and sync data directly from mobile devices.  
-  - Provides real-time updates into the centralized QualityPort system.  
+  - Provides real-time updates into the centralized QualityPort system.
+  - 
+- **Global Deployment**  
+  - Rolled out across 100+ client companies and factories.  
+  - Multi-role access for inspectors, managers, and clients across U.S. and China offices.
 
 ---
+
+## Business Impact
+- Reduced manual reporting effort for inspectors and managers.  
+- Improved transparency and real-time visibility for international buyers.  
+- Supported compliance and risk management across global supply chains, especially during critical disruptions like COVID-19.
 
 ## Technology Stack
 - **Language / Framework**: WLanguage (PCSoft WinDev / WebDev)  
@@ -26,6 +35,7 @@ The **QCM Mobile and QualityPort system** is an enterprise platform built to sup
   - Dynamic dashboards and reporting engine  
   - Mobile synchronization for field operations  
   - Secure multi-user environment with access control  
+- **Hosting / Infrastructure**: Initially deployed on PCSoft infrastructure; later migrated to **AWS (EC2, RDS, S3)** for scalability, performance, and security.
 
 ---
 
