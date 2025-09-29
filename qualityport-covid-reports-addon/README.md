@@ -23,11 +23,12 @@ real-time COVID outbreak data during 2020–2021 to help clients assess supply c
 
 ## Screenshots
 ### Factories by City – COVID Outbreak Map
-<img width="1907" height="845" alt="unnamed2" src="https://github.com/user-attachments/assets/eebcf62f-4706-4883-b48e-3fc6f1db3b0d" />
+<img width="1907" height="845" alt="unnamed2" src="https://github.com/user-attachments/assets/5b06f009-ecb8-4048-8476-5c823207e3c8" />
 
 
 ### Interactive Report – City Monthly
-![unnamed](https://github.com/user-attachments/assets/32c9b143-0a1b-45b8-931d-c7f2faf3400f)
+![unnamed](https://github.com/user-attachments/assets/620eda89-b1a5-4c13-abac-407f27ed51a4)
+
 
 ## Technology
 - **Platform**: PCSoft WinDev / WebDev (QualityPort SaaS)
