@@ -28,4 +28,4 @@ Documentation of real systems I built; source is private. Included to show scope
 
 Engineering & delivery lead / senior full-stack developer, 12+ years. Comfortable across the stack (TypeScript/JavaScript, C#, Python, SQL), cloud/DevOps, and leading distributed teams.
 
-**Contact:** [LinkedIn](<ADD-YOUR-LINKEDIN-URL>)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/patrick-sheehan-7bb86b88/)
